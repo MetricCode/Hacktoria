@@ -26,10 +26,8 @@ We find a pathway**:Ohlone Greenway.**
 
 and with that info covered... we can get our key...
 <br>
-**cedar-rose-park-ohlone-greenway**__
+_**cedar-rose-park-ohlone-greenway**_
 
 use it to open the zip file and boom! <br>
 We get our contract
 ![contract](https://user-images.githubusercontent.com/99975622/202460025-8ed81571-8caf-47b6-a622-81de4fc2eb09.png)
-!
-
