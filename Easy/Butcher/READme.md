@@ -17,6 +17,7 @@ On cyberchef, search for  hex to ascii decode and after baking, the file is deco
 Cyberchef tells us that the file is an mp3 file. Press the save file button and open the audio file using a video editor.
 
 You will hear some letters being read out. 
+
 Type them out and this is your password:
 **_fgjkaergnadrmgkhngadrgle_**
 
