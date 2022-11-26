@@ -31,7 +31,6 @@ __village-d-enfants-sos-khouloum-kayes__
 And we get our contract!
 ![contract](https://user-images.githubusercontent.com/99975622/204100566-97732194-d61b-450d-804b-9b2b35949e81.png)
 
-![contract](https://user-images.githubusercontent.com/99975622/202864219-0c6eb171-cd8d-4362-8c9b-f5ce1a23e44a.png)
 ### Socials
 @Instragram:https://instagram.com/M3tr1c_r00t
 <br>@Twitter:https://twitter.com/M3tr1c_root
