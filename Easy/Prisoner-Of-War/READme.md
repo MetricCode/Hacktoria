@@ -4,3 +4,19 @@
 
 ### _**Intsructions...**_
 ![Screenshot 2022-11-18 at 11-58-05 Prisoner of War - Hacktoria](https://user-images.githubusercontent.com/99975622/204099043-e60dc607-a24f-4997-aef4-5ab56257015e.png)
+
+
+__**Key to note ...**__
+The Girl was from an orphanage.
+She approached the police officers from near Poste de controle KAYES.
+
+Plus, we have been given a map ;
+![aor-prisoner-of-war](https://user-images.githubusercontent.com/99975622/204099735-091bdfcf-80f5-44d4-9196-aa3b310210e2.jpg)
+Going to google and doing a recon... we find;
+![Capture](https://user-images.githubusercontent.com/99975622/204100377-cf60568b-48de-4c4d-8700-051f38619f2b.PNG)
+So, the group children home's organisation is known as SOS.
+doing some moore recon.... we get a map of the children home's location in Mali;
+![Capture2](https://user-images.githubusercontent.com/99975622/204100416-3d3c917c-2a36-4d8b-a33e-dcdb7fc6157b.PNG)
+And on zooming in near KAYES, where the girl reported from, we find the name of the location is ....
+**VILLAGE D'ENFANTS SOS KHOULOUM KAYES**
+So, the key according to the guide is;
