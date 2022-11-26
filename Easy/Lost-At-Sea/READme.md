@@ -2,7 +2,7 @@
 ## Lost At Sea!
 ![lost_at_sea_cover2](https://user-images.githubusercontent.com/99975622/204101735-4c001864-8971-4293-a061-54b9efd3ab91.jpg)
 
-###** _Instructions..._**
+### ** _Instructions..._**
 
 ![instructions](https://user-images.githubusercontent.com/99975622/204101764-3d03f350-1d53-4927-8bc4-53f4949580d5.png)
 
